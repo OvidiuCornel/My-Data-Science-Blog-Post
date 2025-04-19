@@ -17,7 +17,7 @@ Problems to solve:
 
 Summary of the results
 The results can be read at:
-https://medium.com/@bt07moc/good-governance-bad-governance-724b1dbc2046
+https://medium.com/@bt07moc/good-governance-bad-governance-f80df4e610a9
 
 Source of data:
 The data was taken from the World Bank Databank Website, https://databank.worldbank.org/, (Worldwide_Governance_Indicators, 2020).
